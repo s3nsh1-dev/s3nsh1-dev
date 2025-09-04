@@ -10,16 +10,35 @@
   <p><em><strong>"Code is temporary, architecture is forever."</strong></em></p>
 </blockquote>
 
+####
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/MERN-Stack-4CAF50?style=flat&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Backend-Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Styling-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+<!-- Core MERN -->
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<!-- Extras -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<!-- Styling -->
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 </p>
+
+
 
 
 
@@ -42,30 +61,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s3nsh1-dev&layout=compact&langs_count=6&theme=dark&hide_border=false" height="160" alt="Top languages" />  
 </div>
 
-<div align="center">
 
-#### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML" /> <img width="8" />
-<img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS" /> <img width="8" />
-<img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" /> <img width="8" />
-<img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript" /> <img width="8" />
-<img src="https://skillicons.dev/icons?i=react" height="48" alt="React" /> <img width="8" />
-<img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="Next.js" /> <img width="8" />
-<img src="https://skillicons.dev/icons?i=materialui" height="48" alt="Material UI" /> <img width="8" />
-<img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="TailwindCSS" />
-
-#### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" /> <img width="8" />
-<img src="https://skillicons.dev/icons?i=express" height="48" alt="Express" /> <img width="8" />
-<img src="https://skillicons.dev/icons?i=graphql" height="48" alt="GraphQL" />
-<img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" /> <img width="8" />
-<img src="https://skillicons.dev/icons?i=postgres" height="48" alt="Postgres" />
-
-#### ☁️ Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" /> <img width="8" />
-<img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" /> <img width="8" />
-<img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS" /> <img width="8" />
-<img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Vercel" />
-
-</div>
 
