@@ -10,24 +10,14 @@
   <p><em><strong>"Code is temporary, architecture is forever."</strong></em></p>
 </blockquote>
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Database-MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Styling-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-
-</p>
-
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/MERN-Stack-green?style=flat&logo=mongodb&logoColor=white&logoSize=30" />
-<img src="https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react&logoColor=white&logoSize=30" />
-<img src="https://img.shields.io/badge/Backend-Node.js-green?style=flat&logo=node.js&logoColor=white&logoSize=30" />
-<img src="https://img.shields.io/badge/Database-MongoDB-darkgreen?style=flat&logo=mongodb&logoColor=white&logoSize=30" />
-<img src="https://img.shields.io/badge/Styling-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white&logoSize=30" />
+<img src="https://img.shields.io/badge/MERN-Stack-4CAF50?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Backend-Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Styling-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 
 </p>
 
