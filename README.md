@@ -38,20 +38,4 @@
 
 </p>
 
-###
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=s3nsh1-dev&theme=dark&hide_border=false&border_radius=5" height="200" alt="GitHub streak" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s3nsh1-dev&show_icons=true&theme=dark&count_private=true&hide_border=false" height="160" alt="GitHub stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s3nsh1-dev&layout=compact&langs_count=6&theme=dark&hide_border=false" height="160" alt="Top languages" />  
-</div>
-
-
 
