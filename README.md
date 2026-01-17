@@ -7,11 +7,9 @@
 
 <br />
 
-<blockquote align="center" style="color:#6B7280;">
+<blockquote align="left" style="color:#6B7280;">
   <p><em><strong>Code is temporary, architecture is forever.</strong></em></p>
 </blockquote>
-
-<br />
 
 ### <pre>🏗️ Tech Stack & Expertise</pre>
 
