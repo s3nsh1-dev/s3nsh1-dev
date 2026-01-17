@@ -1,62 +1,94 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+scalable+systems;Architecting+modern+web+apps;Writing+clean+maintainable+code" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+scalable+systems;Architecting+modern+web+apps;Writing+clean+maintainable+code"
+    alt="Typing SVG"
+  />
 </div>
-<br/>
-<blockquote> <p><em><strong>"Code is temporary, architecture is forever."</strong></em></p> </blockquote>
 
-### 🛠️ Tech Stack & Expertise
+<br />
 
-<table width="100%">
+<blockquote align="center" style="color:#6B7280;">
+  <p><em><strong>Code is temporary, architecture is forever.</strong></em></p>
+</blockquote>
+
+<br />
+
+### <pre>🏗️ Tech Stack & Expertise</pre>
+
+<table width="100%" cellspacing="0" cellpadding="6">
   <thead>
     <tr>
-      <th align="left" width="300px">Focus Area</th>
-      <th align="left">Technologies</th>
+      <th align="left" width="220" style="color:#6B7280;">Focus Area</th>
+      <th align="left" style="color:#6B7280;">Technologies</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>Frontend</b></td>
+      <td><strong>Frontend</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mui" alt="Frontend" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,mui,bootstrap" alt="Frontend" />
       </td>
     </tr>
     <tr>
-      <td><b>Backend</b></td>
+      <td><strong>Backend</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
-      </td>
-    </tr>
-        <tr>
-      <td><b>Database</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" alt="Databases" />
-      </td>
-    </tr>
-        <tr>
-      <td><b>Languages</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=ts,js,py" alt="Languages" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" alt="Backend" />
       </td>
     </tr>
     <tr>
-      <td><b>Architecture</b></td>
+      <td><strong>Database</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=aws,docker,nginx,serverless" alt="Architecture" />
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis" alt="Databases" />
       </td>
     </tr>
     <tr>
-      <td><b>Version Control</b></td>
+      <td><strong>Languages</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control" />
+        <img src="https://skillicons.dev/icons?i=ts,js,bash,py" alt="Languages" />
       </td>
     </tr>
-
+    <tr>
+      <td><strong>Architecture</strong></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,linux" alt="Architecture" />
+      </td>
+    </tr>
   </tbody>
 </table>
 
-### 📫 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="[YOUR_PORTFOLIO_URL]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
-</p>
+
+### <pre>📇 Connect with Me</pre>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/pandey228/">
+        https://www.linkedin.com/in/pandey228/
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    </td>
+    <td>
+      <a href="mailto:shubham228pandey@gmail.com">
+        shubham228pandey@gmail.com
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=about.me&logoColor=white" />
+    </td>
+    <td>
+      <a href="https://github.com/s3nsh1-dev">
+        https://github.com/s3nsh1-dev
+      </a>
+    </td>
+  </tr>
+</table>
+
